@@ -1,6 +1,6 @@
 # FlappyPlane
 
-LibGDX kütüphanesi kullanılarak yapılmış bir deneme, apk dosyasını aşağıdan indirebilirsiniz.
+LibGDX kütüphanesi kullanılarak yapılmış bir Android denemesi, apk dosyasını aşağıdan indirebilirsiniz.
 
 ![](https://i.hizliresim.com/BGmyNV.jpg)
 
